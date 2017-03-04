@@ -18,14 +18,4 @@ Hides the Atom title bar on systems that support it. Make sure to enable **Use C
 
 ---
 
-[MIT][mit] © [lexicalunit][author] et [al][contributors]
-
-[mit]:              http://opensource.org/licenses/MIT
-[author]:           http://github.com/lexicalunit
-[contributors]:     https://github.com/lexicalunit/no-title-bar/graphs/contributors
-[releases]:         https://github.com/lexicalunit/no-title-bar/releases
-[mit-badge]:        https://img.shields.io/apm/l/no-title-bar.svg
-[apm-pkg-link]:     https://atom.io/packages/no-title-bar
-[apm-ver-link]:     https://img.shields.io/apm/v/no-title-bar.svg
-[dl-badge]:         http://img.shields.io/apm/dm/no-title-bar.svg
-[issues]:           https://github.com/lexicalunit/no-title-bar/issues
+[MIT][mit] © [jdsimcoe][author] et [al][contributors]
