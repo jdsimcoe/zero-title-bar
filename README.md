@@ -10,14 +10,6 @@ Hides the Atom title bar on systems that support it. Make sure to enable **Use C
 
 ![screenshot](https://cl.ly/101E24402V1a/image)
 
-## How do I drag the window now?
-
-You can move the window by grabbing and dragging "empty" space.
-
-![screenshot](https://cloud.githubusercontent.com/assets/1903876/21533874/dad294de-cd24-11e6-9fee-6e4809cc86a7.png)
-
-Rearranging tabs or items in `tree-view` by drag-and-drop should work as normal. Selecting text anywhere within the editor should also work as normal. If not, please [open an issue][issues]!
-
 ## References
 
 - [Hide title bar on OS X `#10208`](https://github.com/atom/atom/pull/10208)
