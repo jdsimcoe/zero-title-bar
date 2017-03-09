@@ -1,6 +1,6 @@
 # Zero Title Bar
 
-This is fork based on @lexicalunit's [no-title-bar](https://atom.io/packages/no-title-bar) plugin.
+This is fork based on the @lexicalunit [no-title-bar](https://atom.io/packages/no-title-bar) plugin.
 
 > **NOTE:** Limited to systems that support Custom Title Bar, meaning Mac OS.
 
