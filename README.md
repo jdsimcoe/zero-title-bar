@@ -1,8 +1,6 @@
 # Zero Title Bar
 
-[![apm package][apm-ver-link]][releases]
-[![][dl-badge]][apm-pkg-link]
-[![][mit-badge]][mit]
+This is fork based on @lexicalunit's [no-title-bar](https://atom.io/packages/no-title-bar) plugin.
 
 > **NOTE:** Limited to systems that support Custom Title Bar, meaning Mac OS.
 
@@ -16,6 +14,5 @@ Hides the Atom title bar on systems that support it. Make sure to enable **Use C
 - [drag & drop `#3009`](https://github.com/electron/electron/issues/3009)
 - [replace OSX window title bar with custom title-bar `#11790`](https://github.com/atom/atom/pull/11790)
 
----
-
-[MIT][mit] © [jdsimcoe][author] et [al][contributors]
+## License
+[MIT](LICENSE.md)
